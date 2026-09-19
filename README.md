@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Yahaya Oche 👋
 
-Mechatronics Engineering student at the **Federal University of Technology Minna** (CGPA: 4.23/5.00), expected to graduate in 2027. I'm interested in autonomous robotics, embedded systems, edge AI, and industrial automation.
+Mechatronics Engineering student at the **Federal University of Technology Minna**, expected to graduate in 2027. I'm interested in autonomous robotics, embedded systems, edge AI, and industrial automation.
 
 ## What I've Been Building
 
